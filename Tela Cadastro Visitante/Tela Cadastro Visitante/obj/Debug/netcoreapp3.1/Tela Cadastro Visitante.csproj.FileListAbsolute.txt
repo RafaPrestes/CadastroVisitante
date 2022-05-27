@@ -1,0 +1,21 @@
+C:\Users\USER\source\repos\Tela Cadastro Visitante\Tela Cadastro Visitante\bin\Debug\netcoreapp3.1\Tela Cadastro Visitante.exe
+C:\Users\USER\source\repos\Tela Cadastro Visitante\Tela Cadastro Visitante\bin\Debug\netcoreapp3.1\Tela Cadastro Visitante.deps.json
+C:\Users\USER\source\repos\Tela Cadastro Visitante\Tela Cadastro Visitante\bin\Debug\netcoreapp3.1\Tela Cadastro Visitante.runtimeconfig.json
+C:\Users\USER\source\repos\Tela Cadastro Visitante\Tela Cadastro Visitante\bin\Debug\netcoreapp3.1\Tela Cadastro Visitante.runtimeconfig.dev.json
+C:\Users\USER\source\repos\Tela Cadastro Visitante\Tela Cadastro Visitante\bin\Debug\netcoreapp3.1\Tela Cadastro Visitante.dll
+C:\Users\USER\source\repos\Tela Cadastro Visitante\Tela Cadastro Visitante\bin\Debug\netcoreapp3.1\Tela Cadastro Visitante.pdb
+C:\Users\USER\source\repos\Tela Cadastro Visitante\Tela Cadastro Visitante\obj\Debug\netcoreapp3.1\Tela Cadastro Visitante.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\Tela Cadastro Visitante\Tela Cadastro Visitante\obj\Debug\netcoreapp3.1\Tela_Cadastro_Visitante.Form1.resources
+C:\Users\USER\source\repos\Tela Cadastro Visitante\Tela Cadastro Visitante\obj\Debug\netcoreapp3.1\Tela Cadastro Visitante.csproj.GenerateResource.cache
+C:\Users\USER\source\repos\Tela Cadastro Visitante\Tela Cadastro Visitante\obj\Debug\netcoreapp3.1\Tela Cadastro Visitante.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\Tela Cadastro Visitante\Tela Cadastro Visitante\obj\Debug\netcoreapp3.1\Tela Cadastro Visitante.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\Tela Cadastro Visitante\Tela Cadastro Visitante\obj\Debug\netcoreapp3.1\Tela Cadastro Visitante.AssemblyInfo.cs
+C:\Users\USER\source\repos\Tela Cadastro Visitante\Tela Cadastro Visitante\obj\Debug\netcoreapp3.1\Tela Cadastro Visitante.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\Tela Cadastro Visitante\Tela Cadastro Visitante\obj\Debug\netcoreapp3.1\Tela Cadastro Visitante.dll
+C:\Users\USER\source\repos\Tela Cadastro Visitante\Tela Cadastro Visitante\obj\Debug\netcoreapp3.1\Tela Cadastro Visitante.pdb
+C:\Users\USER\source\repos\Tela Cadastro Visitante\Tela Cadastro Visitante\obj\Debug\netcoreapp3.1\Tela Cadastro Visitante.genruntimeconfig.cache
+C:\Users\USER\source\repos\Tela Cadastro Visitante\Tela Cadastro Visitante\obj\Debug\netcoreapp3.1\Tela_Cadastro_Visitante.Form2.resources
+C:\Users\USER\source\repos\Tela Cadastro Visitante\Tela Cadastro Visitante\obj\Debug\netcoreapp3.1\Tela_Cadastro_Visitante.Calculadora.resources
+C:\Users\USER\source\repos\Tela Cadastro Visitante\Tela Cadastro Visitante\obj\Debug\netcoreapp3.1\Tela_Cadastro_Visitante.CadastroVisitante.resources
+C:\Users\USER\source\repos\Tela Cadastro Visitante\Tela Cadastro Visitante\obj\Debug\netcoreapp3.1\Tela_Cadastro_Visitante.Properties.Resources.resources
+C:\Users\USER\source\repos\Tela Cadastro Visitante\Tela Cadastro Visitante\obj\Debug\netcoreapp3.1\Tela_Cadastro_Visitante.Form3.resources

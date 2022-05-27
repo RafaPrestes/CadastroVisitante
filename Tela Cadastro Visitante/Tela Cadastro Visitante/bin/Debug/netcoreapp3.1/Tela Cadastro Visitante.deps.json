@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Tela Cadastro Visitante/1.0.0": {
+        "runtime": {
+          "Tela Cadastro Visitante.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Tela Cadastro Visitante/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
